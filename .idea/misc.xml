@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/01-注册中心-负载均衡/cloud-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/01-注册中心-负载均衡/A1-Eureka/pom.xml" />
+        <option value="$PROJECT_DIR$/A1-注册中心-负载均衡/A0-NoRegistrationCenter/pom.xml" />
+        <option value="$PROJECT_DIR$/A1-注册中心-负载均衡/A1-Eureka/pom.xml" />
+        <option value="$PROJECT_DIR$/A1-注册中心-负载均衡/A2-Nacos/order-service/pom.xml" />
+        <option value="$PROJECT_DIR$/A1-注册中心-负载均衡/A2-Nacos/pom.xml" />
+        <option value="$PROJECT_DIR$/A2-负载均衡/A1-Ribbon/pom.xml" />
+        <option value="$PROJECT_DIR$/A1-注册中心/A2-Nacos/pom.xml" />
+        <option value="$PROJECT_DIR$/A1-注册中心/A1-Eureka/pom.xml" />
+        <option value="$PROJECT_DIR$/A1-注册中心/A0-NoRegistrationCenter/pom.xml" />
+        <option value="$PROJECT_DIR$/A3-远程调用/A1-Feign/pom.xml" />
+        <option value="$PROJECT_DIR$/A3-远程调用/A2-Feign-api/pom.xml" />
+        <option value="$PROJECT_DIR$/A4-同一网关/A1-GateWay/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" project-jdk-name="corretto-1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/A1-注册中心/A0-NoRegistrationCenter/order-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/A1-注册中心/A0-NoRegistrationCenter/order-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/A1-注册中心/A0-NoRegistrationCenter/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/A1-注册中心/A0-NoRegistrationCenter/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/A1-注册中心/A0-NoRegistrationCenter/user-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/A1-注册中心/A0-NoRegistrationCenter/user-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/A1-注册中心/A1-Eureka/eureka-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/A1-注册中心/A1-Eureka/eureka-server/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/A1-注册中心/A1-Eureka/order-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/A1-注册中心/A1-Eureka/order-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/A1-注册中心/A1-Eureka/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/A1-注册中心/A1-Eureka/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/A1-注册中心/A1-Eureka/user-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/A1-注册中心/A1-Eureka/user-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/A1-注册中心/A2-Nacos/Order-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/A1-注册中心/A2-Nacos/Order-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/A1-注册中心/A2-Nacos/User-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/A1-注册中心/A2-Nacos/User-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/A1-注册中心/A2-Nacos/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/A1-注册中心/A2-Nacos/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/A2-Nacos/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/A2-Nacos/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/A2-负载均衡/A1-Ribbon/order-service-ribbon/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/A2-负载均衡/A1-Ribbon/order-service-ribbon/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/A2-负载均衡/A1-Ribbon/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/A2-负载均衡/A1-Ribbon/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/A2-负载均衡/A1-Ribbon/user-service-ribbon/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/A2-负载均衡/A1-Ribbon/user-service-ribbon/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/A3-远程调用/A1-Feign/order-service-feign/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/A3-远程调用/A1-Feign/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/A3-远程调用/A1-Feign/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/A3-远程调用/A1-Feign/user-service-feign/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/A3-远程调用/A2-Feign-api/feign-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/A3-远程调用/A2-Feign-api/order-service-feign2/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/A3-远程调用/A2-Feign-api/order-service-feign2/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/A3-远程调用/A2-Feign-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/A3-远程调用/A2-Feign-api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/A3-远程调用/A2-Feign-api/user-service-feign2/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/A4-同一网关/A1-GateWay/feign2-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/A4-同一网关/A1-GateWay/feign2-api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/A4-同一网关/A1-GateWay/gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/A4-同一网关/A1-GateWay/gateway/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/A4-同一网关/A1-GateWay/order-service-gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/A4-同一网关/A1-GateWay/order-service-gateway/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/A4-同一网关/A1-GateWay/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/A4-同一网关/A1-GateWay/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/A4-同一网关/A1-GateWay/user-service-gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/A4-同一网关/A1-GateWay/user-service-gateway/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
