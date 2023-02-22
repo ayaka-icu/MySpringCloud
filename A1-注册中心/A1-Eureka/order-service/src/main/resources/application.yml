@@ -1,0 +1,25 @@
+server:
+  port: 8080
+spring:
+  application:
+    name: orderservice # 使用Eureka必须要提供服务名字
+  datasource:
+    url: jdbc:mysql://Ayaka520:3306/springcloud-dame?useSSL=false
+    username: springcloud-dame
+    password: zjj3eJmm2RNcbAxH
+    driver-class-name: com.mysql.jdbc.Driver
+mybatis:
+  type-aliases-package: com.ganga.user.pojo
+  configuration:
+    map-underscore-to-camel-case: true
+logging:
+  level:
+    com.ganga: debug
+  pattern:
+    dateformat: MM-dd HH:mm:ss:SSS
+
+# 注册 Eureka
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:10086/eureka

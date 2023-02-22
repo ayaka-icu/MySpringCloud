@@ -1,0 +1,5 @@
+com\ganga\user\mapper\UserMapper.class
+com\ganga\user\pojo\User.class
+com\ganga\user\service\UserService.class
+com\ganga\user\UserApplication.class
+com\ganga\user\web\UserController.class
