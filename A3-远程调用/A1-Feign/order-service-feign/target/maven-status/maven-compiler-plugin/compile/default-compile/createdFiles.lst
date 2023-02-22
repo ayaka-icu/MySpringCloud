@@ -1,7 +1,0 @@
-com\ganga\order\clients\FeigeClient.class
-com\ganga\order\web\OrderController.class
-com\ganga\order\pojo\Order.class
-com\ganga\order\pojo\User.class
-com\ganga\order\service\OrderService.class
-com\ganga\order\OrderApplication.class
-com\ganga\order\mapper\OrderMapper.class
