@@ -1,0 +1,25 @@
+server:
+  port: 8081
+spring:
+  application:
+    name: userservice
+  datasource:
+    url: jdbc:mysql://Ayaka520:3306/springcloud-dame?useSSL=false
+    username: springcloud-dame
+    password: zjj3eJmm2RNcbAxH
+    driver-class-name: com.mysql.jdbc.Driver
+  cloud:
+    nacos: # 配置 nacos 地址
+      server-addr: localhost:8848
+      discovery:
+        cluster-name: Ayaka
+
+mybatis:
+  type-aliases-package: com.ganga.user.pojo
+  configuration:
+    map-underscore-to-camel-case: true
+logging:
+  level:
+    com.ganga: debug
+  pattern:
+    dateformat: MM-dd HH:mm:ss:SSS
