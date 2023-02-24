@@ -21,11 +21,13 @@
         <module name="user-service-feign" />
         <module name="order-service-feign2" />
         <module name="order-service (2) (com.ganga.A1-Eureka)" />
+        <module name="publisher" />
         <module name="Order-service" />
         <module name="order-service" />
         <module name="order-service-feign" />
         <module name="user-service (2) (com.ganga.A1-Eureka)" />
         <module name="gateway" />
+        <module name="consumer" />
         <module name="user-service-ribbon" />
       </profile>
     </annotationProcessing>
@@ -50,8 +52,8 @@
       <module name="eureka-server" options="-parameters" />
       <module name="feign-api" options="-parameters" />
       <module name="feign-api (1)" options="-parameters" />
-      <module name="feign2-api" options="-parameters" />
-      <module name="gateway" options="-parameters" />
+      <module name="feign2-api" options="" />
+      <module name="gateway" options="" />
       <module name="order-service" options="-parameters" />
       <module name="order-service (1)" options="-parameters" />
       <module name="order-service (1) (com.ganga.A0-NoRegistrationCenter)" options="-parameters" />
@@ -60,7 +62,7 @@
       <module name="order-service-feign" options="-parameters" />
       <module name="order-service-feign (1) (com.ganga.A2-Feign-api)" options="-parameters" />
       <module name="order-service-feign2" options="-parameters" />
-      <module name="order-service-gateway" options="-parameters" />
+      <module name="order-service-gateway" options="" />
       <module name="order-service-ribbon" options="-parameters" />
       <module name="user-service" options="-parameters" />
       <module name="user-service (1) (com.ganga.A0-NoRegistrationCenter)" options="-parameters" />
@@ -68,7 +70,7 @@
       <module name="user-service (2) (com.ganga.A1-Eureka)" options="-parameters" />
       <module name="user-service-feign" options="-parameters" />
       <module name="user-service-feign2" options="-parameters" />
-      <module name="user-service-gateway" options="-parameters" />
+      <module name="user-service-gateway" options="" />
       <module name="user-service-ribbon" options="-parameters" />
     </option>
   </component>

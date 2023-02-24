@@ -49,5 +49,11 @@
     <file url="file://$PROJECT_DIR$/A4-同一网关/A1-GateWay/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/A4-同一网关/A1-GateWay/user-service-gateway/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/A4-同一网关/A1-GateWay/user-service-gateway/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/A5-消息队列/A1-RabbitMQ/consumer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/A5-消息队列/A1-RabbitMQ/consumer/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/A5-消息队列/A1-RabbitMQ/publisher/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/A5-消息队列/A1-RabbitMQ/publisher/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/A5-消息队列/A1-RabbitMQ/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/A5-消息队列/A1-RabbitMQ/src/main/resources" charset="UTF-8" />
   </component>
 </project>

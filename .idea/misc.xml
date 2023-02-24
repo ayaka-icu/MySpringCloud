@@ -17,6 +17,7 @@
         <option value="$PROJECT_DIR$/A3-远程调用/A1-Feign/pom.xml" />
         <option value="$PROJECT_DIR$/A3-远程调用/A2-Feign-api/pom.xml" />
         <option value="$PROJECT_DIR$/A4-同一网关/A1-GateWay/pom.xml" />
+        <option value="$PROJECT_DIR$/A5-消息队列/A1-RabbitMQ/pom.xml" />
       </list>
     </option>
   </component>
