@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/A2-负载均衡/A2-负载均衡.iml" filepath="$PROJECT_DIR$/A2-负载均衡/A2-负载均衡.iml" />
       <module fileurl="file://$PROJECT_DIR$/A3-远程调用/A3-远程调用.iml" filepath="$PROJECT_DIR$/A3-远程调用/A3-远程调用.iml" />
       <module fileurl="file://$PROJECT_DIR$/A4-同一网关/A4-同一网关.iml" filepath="$PROJECT_DIR$/A4-同一网关/A4-同一网关.iml" />
+      <module fileurl="file://$PROJECT_DIR$/A5-消息队列/A5-消息队列.iml" filepath="$PROJECT_DIR$/A5-消息队列/A5-消息队列.iml" />
       <module fileurl="file://$PROJECT_DIR$/MySpringCloud.iml" filepath="$PROJECT_DIR$/MySpringCloud.iml" />
     </modules>
   </component>

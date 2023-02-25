@@ -18,8 +18,13 @@
         <option value="$PROJECT_DIR$/A3-远程调用/A2-Feign-api/pom.xml" />
         <option value="$PROJECT_DIR$/A4-同一网关/A1-GateWay/pom.xml" />
         <option value="$PROJECT_DIR$/A5-消息队列/A1-RabbitMQ/pom.xml" />
+        <option value="$PROJECT_DIR$/A5-消息队列/A2-SpringAMQP/pom.xml" />
       </list>
     </option>
+  </component>
+  <component name="PWA">
+    <option name="enabled" value="true" />
+    <option name="wasEnabledAtLeastOnce" value="true" />
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_17" project-jdk-name="corretto-1.8" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />

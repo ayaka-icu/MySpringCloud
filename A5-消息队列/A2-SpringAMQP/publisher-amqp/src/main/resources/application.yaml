@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: consumer
+  # 配置RabbitMQ
+  rabbitmq:
+    host: ayaka520          # 主机地址
+    port: 5672              # 端口号
+    virtual-host: /         # 虚拟主机地址
+    username: ganga         # 用户名
+    password: xxxxxxxxxxxxx # 密码

@@ -55,5 +55,10 @@
     <file url="file://$PROJECT_DIR$/A5-消息队列/A1-RabbitMQ/publisher/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/A5-消息队列/A1-RabbitMQ/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/A5-消息队列/A1-RabbitMQ/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/A5-消息队列/A2-SpringAMQP/consumer-amqp/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/A5-消息队列/A2-SpringAMQP/publisher-amqp/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/A5-消息队列/A2-SpringAMQP/publisher-amqp/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/A5-消息队列/A2-SpringAMQP/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/A5-消息队列/A2-SpringAMQP/src/main/resources" charset="UTF-8" />
   </component>
 </project>
