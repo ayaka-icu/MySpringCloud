@@ -7,10 +7,12 @@
     <groupId>com.ganga.mq</groupId>
     <artifactId>A1-RabbitMQ</artifactId>
     <version>1.0-SNAPSHOT</version>
-    <modules>
+
+     <modules>
         <module>publisher</module>
         <module>consumer</module>
     </modules>
+
     <packaging>pom</packaging>
 
     <parent>
