@@ -20,6 +20,14 @@ spring:
 #  ribbon:
 #    NFLoadBalancerRuleClassName: com.alibaba.cloud.nacos.ribbon.NacosRule # 负载均衡规则
 
+# 对ribbon进行配置
+ribbon:
+  eager-load:
+    enabled: true # 饥饿加载 开启 饥饿加载
+    clients: userservice # 对userservice进行饥饿加载
+      #- userservice #也可进行多个服务
+      #- shopservice
+
 mybatis:
   type-aliases-package: com.ganga.user.pojo
   configuration:
