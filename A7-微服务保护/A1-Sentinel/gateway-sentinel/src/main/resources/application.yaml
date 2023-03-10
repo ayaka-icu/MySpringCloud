@@ -1,0 +1,44 @@
+server:
+  port: 10010
+spring:
+  application:
+    name: wateway
+  cloud:
+    nacos:
+      server-addr: localhost:8848
+    #配置gateway网关
+    gateway:
+      routes: # 配置网关路由 一组需要三个必要参数 id、uri、predicates 外加一个 filters
+        - id: user-service # 路由id，自定义，只要唯一即可
+          uri: lb://userservice # 路由的目标地址 lb是负载均衡 后面是服务名称
+          predicates: # 路由断言，是判断请求是否符合路由规则的条件
+            - Path=/user/**
+          filters:
+            - AddRequestHeader=header-key, value! # 添加请求头
+          #文档: https://docs.spring.io/spring-cloud-gateway/docs/current/reference/html/#the-addrequestheader-gatewayfilter-factory
+        - id: order-service
+          uri: lb://orderservice
+          predicates:
+            - Path=/order/**
+          filters:
+            - AddRequestHeader=Header-key, Filter!
+      default-filters: # 默认过滤器 spring.cloud.gateway.default-filters
+        - AddRequestHeader=Header-key, Filter!
+        - AddRequestHeader=origin, jia-mi-xin-xi # 用于sentinel 认证头信息
+      # 配置全局的跨域处理
+      globalcors:
+        add-to-simple-url-handler-mapping: true # 解决options请求被拦截问题
+        cors-configurations:
+          '[/**]':
+            allowedOrigins: # 允许哪些网站的跨域请求
+              - "http://localhost:8090"
+              - "http://www.baidu.com"
+            allowedMethods: # 允许的跨域ajax的请求方式
+              - "GET"
+              - "POST"
+              - "DELETE"
+              - "PUT"
+              - "OPTIONS"
+            allowedHeaders: "*" # 允许在请求中携带的头信息
+            allowCredentials: true # 是否允许携带cookie
+            maxAge: 360000 # 这次跨域检测的有效期
