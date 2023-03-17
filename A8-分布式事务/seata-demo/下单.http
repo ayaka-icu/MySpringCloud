@@ -1,0 +1,28 @@
+###
+
+# curl --location --request POST 'http://localhost:8082/order?userId=user202103032042012&commodityCode=100202003032041&count=20&money=200'
+POST http://localhost:8082/order?userId=user202103032042012&commodityCode=100202003032041&count=2&money=200
+Content-Type: application/json
+{
+  "userId": "user202103032042012",
+  "commodityCode": "100202003032041",
+  "count": 1,
+  "money": 200
+}
+
+// POST http://localhost:8082/order?userId=user202103032042012&commodityCode=100202003032041&count=20&money=200
+
+
+
+
+
+#Content-Type: application/json
+#{
+#  "userId": "user202103032042012",
+#  "commodityCode": "100202003032041",
+#  "count": 1,
+#  "money": 200
+#}
+
+###
+
